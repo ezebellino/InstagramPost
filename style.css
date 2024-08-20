@@ -47,7 +47,7 @@ h2 {
 }
 
 .fa-html5 {
-    font-size: 3rem;
+    font-size: 5rem;
 }
 
 img {
@@ -75,6 +75,6 @@ img {
     align-content: space-between;
 }
 
-.fa-heartplanecomment {
-    padding: 2.5px;
+.fa-paper-plane:before {
+    padding: 0 10px;
 }
