@@ -2,12 +2,13 @@
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     box-sizing: border-box;
-    background-color: black;
+
 }
 
 body {
     display: grid;
     place-content: center;
+    background-color: black;
 }
 
 h1 {
@@ -27,6 +28,8 @@ h2 {
 #post {
     max-width: 90%;
     margin: 0 auto; 
+    background-color: aliceblue;
+    padding: 0.5rem;
 }
 
 #row {
